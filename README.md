@@ -73,9 +73,9 @@ print(df.head())
 | zero.salon   | available | $14.99    | $83.99        | 112            | 53     | 4      | name.com          |
 | code.salon   | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc       |
 | health.salon | premium   | $128.70   | $128.70       | 92             | 43     | 6      | namecheap         |
-| fast.salon   | available | $14.99    | $83.99        | 82             | 53     | 4      | name.com          |
+| fast.salon   | available | $14.99    | $83.99        | 82             | 52     | 4      | name.com          |
 | cloud.salon  | resell    | —         | —             | 70             | 59     | 5      | Sav.com, LLC - 49 |
-| elite.salon  | premium   | $123.75   | $123.75       | 90             | 43     | 5      | name.com          |
+| elite.salon  | premium   | $123.75   | $123.75       | 90             | 42     | 5      | name.com          |
 | clear.salon  | available | $14.99    | $83.99        | 90             | 49     | 5      | name.com          |
 | live.salon   | resell    | —         | —             | 108            | 56     | 4      | Sav.com, LLC - 16 |
 | first.salon  | premium   | $123.75   | $123.75       | 80             | 41     | 5      | name.com          |

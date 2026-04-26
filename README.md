@@ -1,22 +1,22 @@
-# Available .SALON One-Word Domains (9,472)
+# Available .SALON One-Word Domains (11,981)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C472%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C472%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C981%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .salon one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .salon one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,981 domains** on the canonical page below.
 
-**Public extract:** 9,472 rows · **Live catalog:** 9,472 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,981 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/salon`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SALON one-word domain
 
 ### Files
 
-- `salon.csv` — public CSV extract (9,472 rows)
-- `salon.json` — public JSON extract (9,472 rows)
+- `salon.csv` — public CSV extract (1,000 rows)
+- `salon.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| silver.salon | available | $69.98    | —             | 56             | 99     | 6      | namecheap         |
-| get.salon    | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 13 |
-| travel.salon | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
-| good.salon   | available | $14.99    | $83.99        | 82             | 55     | 4      | name.com          |
-| flow.salon   | resell    | —         | —             | 96             | 67     | 4      | Dynadot Inc       |
-| nice.salon   | premium   | $123.75   | $123.75       | 86             | 44     | 4      | name.com          |
-| zero.salon   | available | $14.99    | $83.99        | 112            | 53     | 4      | name.com          |
-| code.salon   | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc       |
-| health.salon | premium   | $128.70   | $128.70       | 92             | 43     | 6      | namecheap         |
-| fast.salon   | available | $14.99    | $83.99        | 82             | 52     | 4      | name.com          |
-| cloud.salon  | resell    | —         | —             | 70             | 59     | 5      | Sav.com, LLC - 49 |
-| elite.salon  | premium   | $123.75   | $123.75       | 90             | 42     | 5      | name.com          |
-| clear.salon  | available | $14.99    | $83.99        | 90             | 49     | 5      | name.com          |
-| live.salon   | resell    | —         | —             | 108            | 56     | 4      | Sav.com, LLC - 16 |
-| first.salon  | premium   | $123.75   | $123.75       | 80             | 41     | 5      | name.com          |
-| self.salon   | available | $14.99    | —             | 70             | 47     | 4      | name.com          |
-| book.salon   | resell    | —         | —             | 82             | 55     | 4      | Spaceship, Inc.   |
-| sports.salon | premium   | $128.70   | $128.70       | 110            | 37     | 6      | namecheap         |
-| only.salon   | available | $14.99    | $83.99        | 110            | 46     | 4      | name.com          |
-| music.salon  | resell    | —         | —             | 84             | 54     | 5      | Sav.com, LLC - 31 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Books.salon     | available | $69.98    | —             | 52             | 49     | 5      | namecheap |
+| pages.salon     | premium   | $123.75   | —             | 52             | 28     | 5      | name.com  |
+| skills.salon    | available | $14.99    | —             | 58             | 47     | 6      | name.com  |
+| styling.salon   | premium   | $82.50    | —             | 78             | 11     | 7      | name.com  |
+| Ryan.salon      | available | $69.98    | —             | 60             | 44     | 4      | namecheap |
+| matcha.salon    | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
+| justin.salon    | available | $14.99    | —             | 58             | 38     | 7      | name.com  |
+| events.salon    | available | $14.99    | —             | 68             | 37     | 6      | name.com  |
+| tokens.salon    | available | $14.99    | —             | 51             | 36     | 6      | name.com  |
+| homes.salon     | available | $14.99    | —             | 86             | 34     | 5      | name.com  |
+| teams.salon     | available | $14.99    | —             | 62             | 32     | 5      | name.com  |
+| letsgo.salon    | available | $14.99    | —             | 57             | 31     | 7      | name.com  |
+| solutions.salon | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
+| rewards.salon   | available | $14.99    | —             | 62             | 30     | 7      | name.com  |
+| heroes.salon    | available | $14.99    | —             | 68             | 29     | 6      | name.com  |
+| forms.salon     | available | $14.99    | —             | 54             | 28     | 5      | name.com  |
+| photos.salon    | available | $14.99    | —             | 54             | 28     | 6      | name.com  |
+| systems.salon   | available | $14.99    | —             | 46             | 27     | 7      | name.com  |
+| trades.salon    | available | $14.99    | —             | 71             | 26     | 6      | name.com  |
+| has.salon       | available | $14.99    | —             | 60             | 26     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,472-row public sample | 9,472 live domains                               |
+| 1,000-row public sample | 11,981 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALON One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALON One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

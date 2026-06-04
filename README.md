@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .salon one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,461 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,461 domains · **Median ask:** $19.50 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,461 domains · **Median ask:** $17.07 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/salon`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Books.salon     | available | $69.98    | —             | 52             | 49     | 5      | namecheap |
-| pages.salon     | premium   | $123.75   | —             | 52             | 28     | 5      | name.com  |
-| skills.salon    | available | $14.99    | —             | 58             | 47     | 6      | name.com  |
-| styling.salon   | premium   | $82.50    | —             | 78             | 11     | 7      | name.com  |
-| Ryan.salon      | available | $69.98    | —             | 60             | 44     | 4      | namecheap |
-| justin.salon    | available | $14.99    | —             | 58             | 38     | 7      | name.com  |
-| events.salon    | available | $14.99    | —             | 68             | 37     | 6      | name.com  |
-| tokens.salon    | available | $14.99    | —             | 51             | 36     | 6      | name.com  |
-| teams.salon     | available | $14.99    | —             | 62             | 32     | 5      | name.com  |
-| solutions.salon | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
-| photos.salon    | available | $14.99    | —             | 54             | 28     | 6      | name.com  |
-| systems.salon   | available | $14.99    | —             | 46             | 27     | 7      | name.com  |
-| has.salon       | available | $14.99    | —             | 60             | 26     | 3      | name.com  |
-| traders.salon   | available | $14.99    | —             | 60             | 26     | 7      | name.com  |
-| doctors.salon   | available | $14.99    | —             | 56             | 26     | 7      | name.com  |
-| sites.salon     | available | $14.99    | —             | 53             | 26     | 5      | name.com  |
-| Trex.salon      | available | $69.98    | —             | 80             | 24     | 5      | namecheap |
-| pops.salon      | available | $14.99    | —             | 74             | 24     | 4      | name.com  |
-| whats.salon     | available | $14.99    | —             | 58             | 24     | 5      | name.com  |
-| girls.salon     | available | $14.99    | —             | 83             | 23     | 5      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| search.salon   | available | $14.99    | —             | 70             | 53     | 6      | name.com                                                  |
+| best.salon     | resell    | —         | —             | 82             | 55     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| buy.salon      | premium   | $82.50    | —             | 106            | 54     | 3      | name.com                                                  |
+| jesus.salon    | available | $14.99    | —             | 126            | 50     | 5      | name.com                                                  |
+| love.salon     | resell    | —         | —             | 86             | 51     | 4      | Porkbun LLC                                               |
+| family.salon   | premium   | $118.80   | $118.80       | 106            | 45     | 6      | namesilo                                                  |
+| create.salon   | available | $14.99    | —             | 107            | 50     | 6      | name.com                                                  |
+| you.salon      | resell    | —         | —             | 74             | 51     | 3      | Sav.com, LLC - 38                                         |
+| first.salon    | premium   | $123.75   | $123.75       | 80             | 42     | 5      | name.com                                                  |
+| platform.salon | available | $14.99    | —             | 92             | 48     | 8      | name.com                                                  |
+| sun.salon      | resell    | —         | —             | 78             | 47     | 3      | Porkbun LLC                                               |
+| lp.salon       | premium   | $118.80   | $118.80       | 66             | 34     | 3      | namesilo                                                  |
+| air.salon      | available | $14.99    | —             | 84             | 48     | 3      | name.com                                                  |
+| english.salon  | resell    | —         | —             | 96             | 35     | 7      | Sav.com, LLC - 24                                         |
+| medical.salon  | premium   | $123.75   | $123.75       | 100            | 32     | 7      | name.com                                                  |
+| dna.salon      | available | $14.99    | —             | 78             | 47     | 3      | name.com                                                  |
+| queen.salon    | resell    | —         | —             | 92             | 30     | 5      | Sav.com, LLC                                              |
+| men.salon      | premium   | $123.75   | —             | 70             | 27     | 3      | name.com                                                  |
+| random.salon   | available | $14.99    | —             | 84             | 46     | 6      | name.com                                                  |
+| nude.salon     | resell    | —         | —             | 86             | 21     | 4      | Tucows Domains Inc.                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALON One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALON One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -4,10 +4,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 b0ec2e61-6616-47d8-b656-8be108b47566,billgates.salon,available,14.99,,high,low,10,name.com,,,
 d36d8c52-c7ba-48af-b56a-3c879ce0a376,hitup.salon,available,14.99,,high,low,6,name.com,,,
 c7381d19-df1c-49f2-816b-30cb46b53cea,kookie.salon,available,19.99,83.99,low,low,6,name.com,,,06/08/2026 21:09
-b2e8a532-d1e2-49a8-83b5-ecef1c1c2a42,buy.salon,premium,85.8,85.8,medium,low,3,namecheap,,,19/09/2026 08:52
+b2e8a532-d1e2-49a8-83b5-ecef1c1c2a42,buy.salon,premium,78.54,78.54,medium,low,3,namesilo,,,23/09/2026 06:05
 fee22ab4-57e3-4417-a16a-085adebe6d24,stcharles.salon,available,14.99,,medium,low,11,name.com,,,
 74cc1953-4ade-43a0-90c0-ba22532eb657,soppy.salon,available,19.99,83.99,low,low,5,name.com,,,09/08/2026 01:14
-db729c4c-5212-4d58-8d89-4f8c24c35d0b,platform.salon,available,14.99,,high,medium,8,name.com,,,
+db729c4c-5212-4d58-8d89-4f8c24c35d0b,platform.salon,available,57.99,57.99,medium,low,8,namesilo,,,23/09/2026 06:19
 ed7ce04b-f65f-4a47-81b6-ff6ceb9a2e6f,croptop.salon,available,14.99,,high,low,8,name.com,,,
 46bc7fb7-56a8-421a-9f28-9b4613878578,clearance.salon,available,55.98,69.98,medium,low,9,namecheap,,,08/09/2026 08:11
 5710e2f7-c860-45eb-a7a7-8fd7606ccde7,easter.salon,available,14.99,83.99,high,low,6,name.com,,,
@@ -18,10 +18,10 @@ c60a5df4-898b-4100-8647-0c1cf74fa433,manyatimeandoft.salon,available,14.99,,medi
 fa0d732b-716b-49c0-871c-ac56f8f3e01b,grilled.salon,available,19.99,83.99,low,low,7,name.com,,,08/08/2026 16:31
 51ac8285-e0ce-4048-840d-21d465fe27a5,byhand.salon,available,14.99,,medium,low,7,name.com,,,
 427c3083-8816-479c-b48d-0c7d0f89c5d7,maternal.salon,available,14.99,,high,low,8,name.com,,,
-b2860b5d-abf5-4eca-b066-fc54d437331f,backbone.salon,available,14.99,,medium,low,9,name.com,,,
+b2860b5d-abf5-4eca-b066-fc54d437331f,backbone.salon,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 15:14
 16e23bf3-5d5d-48b4-b979-937075f41321,amateurish.salon,available,19.99,83.99,low,low,10,name.com,,,
 9f9644f3-12dc-4acb-b76c-3f99cc59fc4b,pour.salon,available,14.99,,high,low,4,name.com,,,
-c00a5b6e-ee8c-4bf4-99dc-2a01b3ec5f97,glad.salon,available,14.99,,high,low,4,name.com,,,
+c00a5b6e-ee8c-4bf4-99dc-2a01b3ec5f97,glad.salon,available,55.98,69.98,medium,low,4,namecheap,,,22/09/2026 18:28
 4531f45f-a586-4ae3-b1c5-f00dec942a3d,preference.salon,available,14.99,,high,low,10,name.com,,,
 fdf45480-7aec-44a7-b44c-150b9024c0e1,minutes.salon,available,14.99,,high,low,7,name.com,,,
 561052de-3493-421a-b13a-3a8b7ec0325b,goodnews.salon,available,14.99,,high,low,9,name.com,,,
@@ -40,7 +40,7 @@ eaed9f58-da89-4d79-9df7-fc8ccb435f30,breakinto.salon,available,14.99,,medium,low
 487658c7-bdd8-45c4-a951-e8a4df834cff,liii.salon,available,19.99,83.99,low,low,4,name.com,,,
 d71df6f8-ddca-46d9-8aa2-ca14a4f23eae,suitable.salon,available,14.99,,medium,low,8,name.com,,,
 bf840d89-07d9-442e-88e5-5b0e1b698cec,luxembourg.salon,available,,,medium,low,10,,,,
-e7336444-b9c4-455c-ad52-69c21d068b43,blurred.salon,available,14.99,,medium,low,7,name.com,,,
+e7336444-b9c4-455c-ad52-69c21d068b43,blurred.salon,available,57.99,57.99,low,low,7,namesilo,,,22/09/2026 23:21
 967dccaa-0c10-449e-9964-1b68bf6e82a0,disrespect.salon,available,14.99,,high,low,10,name.com,,,
 d6675287-5c39-4786-82fa-f62efe465aa0,lush.salon,available,,,medium,low,4,,,,
 d3581e97-cf33-453a-8ed6-67cd74dbc764,cheeses.salon,available,14.99,,high,low,7,name.com,,,
@@ -48,16 +48,16 @@ a1e9913b-28cc-482d-ace1-c007e057c3a6,erase.salon,available,14.99,,high,low,5,nam
 75a65333-32d5-491e-979e-6d71407d51ec,screenshot.salon,available,14.99,,high,low,10,name.com,,,
 6ed09f9a-d48a-4a3b-b466-15f76e24ae9d,pepsicola.salon,available,14.99,,high,low,10,name.com,,,
 0f25d820-d502-4ee6-a07f-0e22259fa4ae,bedandbreakfast.salon,available,14.99,,high,low,17,name.com,,,
-78ca9921-5251-4915-b1e6-1823b3aa1fee,accustomed.salon,available,14.99,83.99,high,low,10,name.com,,,
+78ca9921-5251-4915-b1e6-1823b3aa1fee,accustomed.salon,available,55.98,69.98,medium,low,10,namecheap,,,21/09/2026 16:02
 367760c0-e26e-46c8-9475-6ecf34c71b5c,men.salon,premium,123.75,,high,low,3,name.com,,,
 11970a03-a9dd-4c38-b048-29eeb67d0807,promising.salon,available,14.99,,high,low,9,name.com,,,
 9115de4e-31f0-4aa9-8f44-deb2b495b425,oneortwo.salon,available,14.99,,low,low,10,name.com,,,
 e285427e-2fa9-4172-9c0f-55936624834f,shot.salon,available,14.99,,high,low,4,name.com,,,
 c74d95d8-a8a9-4b5e-b23e-faa613ff472a,earlyadopter.salon,available,14.99,,high,low,13,name.com,,,
 953f543c-ff45-40d6-8708-49242e3bb105,ateleiotic.salon,available,19.99,83.99,low,low,10,name.com,,,07/08/2026 12:59
-88de3f7e-f9b9-4114-8c3d-7e4d9f3d2624,autonomous.salon,available,14.99,,high,medium,10,name.com,,,
+88de3f7e-f9b9-4114-8c3d-7e4d9f3d2624,autonomous.salon,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 14:12
 58c61937-3159-4ef5-99e8-8ad614e99497,mothafukka.salon,available,14.99,,medium,low,10,name.com,,,
-e13e19c0-87e9-4a48-8c57-f188dbfcca36,battered.salon,available,14.99,,medium,low,8,name.com,,,
+e13e19c0-87e9-4a48-8c57-f188dbfcca36,battered.salon,available,55.98,69.98,low,low,8,namecheap,,,22/09/2026 18:12
 22b1dae1-9868-4415-94c0-0ffd326bb8e0,criticism.salon,available,14.99,,medium,low,9,name.com,,,
 80986432-0c0b-4ea1-9328-1472df3c23e0,gointo.salon,available,57.99,57.99,low,low,7,namesilo,,,16/09/2026 23:51
 4614f7a6-f1bb-4c7b-893a-96e87f3fe60c,grubby.salon,available,19.99,83.99,low,low,6,name.com,,,09/08/2026 09:31
@@ -70,7 +70,7 @@ c74121d7-6694-419b-b312-73e87b74629f,things.salon,available,14.99,,high,low,6,na
 d85baa02-41a2-41f0-b62d-4c5f20938dfd,anymore.salon,available,14.99,,medium,low,7,name.com,,,
 cef6188f-2ed3-407d-9aa2-2740c8caf362,bbc.salon,available,,,high,low,3,,,,
 91df3ddd-08b9-4c8c-b858-a37e2a084212,facet.salon,available,14.99,,high,low,5,name.com,,,
-6165e150-557d-4b89-98c7-3dd75629ae37,acid.salon,available,19.99,83.99,low,low,4,name.com,,,
+6165e150-557d-4b89-98c7-3dd75629ae37,acid.salon,available,19.99,83.99,medium,low,4,name.com,,,
 46e471a2-b2a6-4a4a-a657-c1580ca643af,feminine.salon,available,14.99,,high,low,8,name.com,,,
 44ad7f64-efa2-4e44-ba8f-7c3aef73f590,particular.salon,available,14.99,,high,low,10,name.com,,,
 1995dc4a-d6cb-4d4a-87aa-21f5af402844,heartattack.salon,available,14.99,,medium,low,12,name.com,,,
@@ -84,7 +84,7 @@ d2b0a236-28cb-49fa-82c8-c6dff5916c1f,venerable.salon,available,14.99,,high,low,9
 9f7e4ad5-8ac1-4fcb-9bcf-b98489043e58,supersize.salon,available,14.99,,high,low,9,name.com,,,
 df0419e6-5b66-4e0f-9a64-72303b7e40fe,bestwishes.salon,available,14.99,,high,low,11,name.com,,,
 e2b1f0b5-4860-4868-bb51-78e5bf5ce71d,aegean.salon,available,19.99,83.99,low,low,6,name.com,,,
-a4ad0085-aae9-4546-9c00-85a5a0f2a31b,faded.salon,available,14.99,,medium,low,5,name.com,,,
+a4ad0085-aae9-4546-9c00-85a5a0f2a31b,faded.salon,available,57.99,57.99,low,low,5,namesilo,,,22/09/2026 11:25
 4450cd0e-4021-473a-b9cd-81dc9a8454b5,aerolitic.salon,available,19.99,83.99,low,low,9,name.com,,,
 773ec7bf-b4c5-48c2-be79-ee9e207e5603,baronial.salon,available,19.99,83.99,low,low,8,name.com,,,08/08/2026 20:11
 4e10d893-7315-4d82-aa7c-00ea8f18562c,antigenic.salon,available,19.99,83.99,low,low,9,name.com,,,
@@ -104,7 +104,7 @@ b7881979-f152-4146-81f2-ce947ade0006,athletics.salon,available,,,medium,low,9,,,
 32911fd8-03ff-4f93-86f8-cc81b0f247cf,gowrong.salon,available,14.99,,medium,low,8,name.com,,,
 98b0c315-3bab-4f60-89bb-eca08c7f35fa,husbandandwife.salon,available,14.99,,high,low,16,name.com,,,
 3ad2de81-9800-4e58-8c73-de809a9854c1,whichiswhich.salon,available,14.99,,low,low,14,name.com,,,
-49b92e7b-e55f-477c-92be-c4621c0d9330,bestloved.salon,available,14.99,,high,low,10,name.com,,,
+49b92e7b-e55f-477c-92be-c4621c0d9330,bestloved.salon,available,55.98,69.98,medium,low,10,namecheap,,,22/09/2026 20:06
 0c6c8098-11c9-4401-a373-654b423829e7,speed.salon,available,14.99,,high,low,5,name.com,,,
 b2f1a268-3b9c-4753-8b9e-449b37b9549a,continuing.salon,available,14.99,83.99,high,low,10,name.com,,,
 5c17a0e7-4998-4978-bc5b-d318a0704467,bellyshirt.salon,available,14.99,,high,low,11,name.com,,,
@@ -118,7 +118,7 @@ d1a741a3-bb55-42cb-aa9b-b71570ae7c9b,changethesubject.salon,available,14.99,,med
 8fc0550d-c00d-409f-8781-cc9a1965fae9,onequarter.salon,available,14.99,,low,low,11,name.com,,,
 83fcc581-b551-4586-a2eb-27f62fcc5197,creaky.salon,available,19.99,83.99,low,low,6,name.com,,,06/08/2026 22:59
 b8e6149a-ea9d-4a24-8094-0891a2847fd9,destroyed.salon,available,14.99,83.99,medium,low,9,name.com,,,
-b05442df-33af-493a-aae0-bc3d497139e8,ago.salon,available,14.99,83.99,medium,low,3,name.com,,,
+b05442df-33af-493a-aae0-bc3d497139e8,ago.salon,available,55.98,69.98,low,low,3,namecheap,,,21/09/2026 23:15
 9e1ad30d-90d0-4896-a1df-cdc30dbe8038,showofhands.salon,available,14.99,,low,low,13,name.com,,,
 02577030-ad73-466b-865a-7360cdaaa53c,procrastinate.salon,available,14.99,,medium,low,13,name.com,,,
 7ffaed61-886b-4ec1-804b-f77233160ed2,lion.salon,available,14.99,,high,low,4,name.com,,,
@@ -137,7 +137,7 @@ d74b2d28-31bb-42d7-ab9b-783d14c4d185,sweat.salon,available,14.99,,medium,low,5,n
 b3e4408c-c2e8-4908-aecd-ac391d14fe7e,relapse.salon,available,14.99,,high,low,7,name.com,,,
 a2f5ceeb-33c0-4e37-8af1-037eabddbc5e,astringent.salon,available,19.99,83.99,low,low,10,name.com,,,
 ec0e027b-09d4-4694-8b41-6b016c263fe8,aquatic.salon,available,19.99,83.99,low,low,7,name.com,,,06/08/2026 10:45
-ac676109-06ea-4e04-96db-d68c8886f4df,second.salon,available,14.99,83.99,high,low,6,name.com,,,
+ac676109-06ea-4e04-96db-d68c8886f4df,second.salon,available,57.99,57.99,medium,low,6,namesilo,,,21/09/2026 12:59
 28190770-4c34-4b81-8989-4b9b88af5d6d,thehardway.salon,available,14.99,,low,low,12,name.com,,,
 955d6f55-59a4-4905-b0e9-17c4bd4946ed,capitalize.salon,available,14.99,,high,low,10,name.com,,,
 41e8ac4e-1f8b-4701-aa80-645e2867f540,salmon.salon,available,14.99,,high,low,6,name.com,,,
@@ -150,7 +150,7 @@ b7a1b55e-3e42-47c3-9cda-fedd30e92b50,afrikaner.salon,available,19.99,83.99,low,l
 c548c87d-7e2f-42de-9bfb-c8fb9cde2e77,silverring.salon,available,14.99,,low,low,11,name.com,,,
 822b9baa-25ac-4c29-a7ad-5a620e2dc055,mist.salon,available,14.99,,medium,low,4,name.com,,,
 733d198a-df06-4c7f-a196-d7a986e1e519,iknowit.salon,available,14.99,,medium,low,9,name.com,,,
-99b915b4-bb97-4c51-96d5-a9ffe122edfe,skillful.salon,available,14.99,83.99,high,low,8,name.com,,,
+99b915b4-bb97-4c51-96d5-a9ffe122edfe,skillful.salon,available,57.99,57.99,medium,low,8,namesilo,,,21/09/2026 17:27
 63daa6cb-1f13-4d64-b487-3b2057f353e6,phantasmal.salon,available,19.99,83.99,low,low,10,name.com,,,06/08/2026 05:33
 549f117f-a71d-4031-9b88-ff2766539598,pontifical.salon,available,19.99,83.99,low,low,10,name.com,,,06/08/2026 04:15
 16c8f8c7-d6e2-4b20-a38a-434dda139a8e,putonthemap.salon,available,14.99,,low,low,14,name.com,,,
@@ -211,7 +211,7 @@ b9d49b62-98ee-4ae9-8fc0-68c5278d52ce,maudlin.salon,available,19.99,83.99,low,low
 5d642d64-43fd-4c40-a938-e21d39f2fa23,address.salon,available,14.99,,high,low,7,name.com,,,
 30489061-5950-496f-a29b-a54617b95301,logo.salon,available,14.99,,medium,low,4,name.com,,,
 bd74b4a1-286f-4122-9401-714abe9483c9,butterfly.salon,available,14.99,,high,low,9,name.com,,,
-8a344e3c-40ed-432d-9185-e2336d10bf37,closeto.salon,available,14.99,83.99,medium,low,8,name.com,,,
+8a344e3c-40ed-432d-9185-e2336d10bf37,closeto.salon,available,57.99,57.99,low,low,8,namesilo,,,21/09/2026 14:09
 65ce5954-3f03-46f3-ba28-a50574e8110f,dakar.salon,available,14.99,,medium,low,5,name.com,,,
 63e49ad8-144d-43c9-aab0-1ca09c5ff9b9,axiom.salon,available,14.99,,high,medium,5,name.com,,,
 9f3ac52c-fd5e-4f9d-a255-100eb9becd86,critically.salon,available,14.99,,medium,low,10,name.com,,,
@@ -297,7 +297,7 @@ dce31bff-3f06-4999-aa29-bf7c54f57e2e,kleenex.salon,available,14.99,,high,low,7,n
 71955add-6e83-49d2-8482-f86f2327ee43,somewhat.salon,available,14.99,,high,low,8,name.com,,,
 36b897e5-c404-4a49-a5d2-2d5bde5f3dbe,stockexchange.salon,available,14.99,,high,low,14,name.com,,,
 cab71241-7848-4102-9154-3b6bd96ad6f8,namedafter.salon,available,14.99,,low,low,11,name.com,,,
-3faf8769-9204-4bc1-b1d5-0b106732e29a,articulate.salon,available,14.99,,high,low,10,name.com,,,
+3faf8769-9204-4bc1-b1d5-0b106732e29a,articulate.salon,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 08:42
 958eec22-a8f7-42e8-93ed-c28d2119e029,medical.salon,premium,118.8,118.8,medium,low,7,namesilo,,,20/09/2026 03:07
 ec0103dd-a430-4b8b-baaf-50cadc8398ec,fiftieth.salon,available,19.99,83.99,low,low,8,name.com,,,
 7c3bb52e-8ecd-4aa1-961f-4395de6d8fff,bricks.salon,available,14.99,,medium,low,6,name.com,,,
@@ -311,13 +311,13 @@ f926bd5f-af35-4339-a5c0-044800c5c259,accusative.salon,available,19.99,83.99,low,
 ae144d1d-7c16-4950-af0d-3cad928ba30d,earmark.salon,available,19.99,83.99,low,low,7,name.com,,,06/08/2026 09:08
 27efe0a3-9820-4b1b-8857-8e499da5752a,actinic.salon,available,19.99,83.99,low,low,7,name.com,,,
 83f636cd-c17c-4213-8b90-9904bcb6e6d8,olivejuice.salon,available,14.99,,medium,low,11,name.com,,,
-39e10b0e-2913-4d25-b5c4-92d7643c8d22,atrocious.salon,available,14.99,,medium,low,9,name.com,,,
+39e10b0e-2913-4d25-b5c4-92d7643c8d22,atrocious.salon,available,57.99,57.99,low,low,9,namesilo,,,22/09/2026 11:11
 0967d293-d003-4edd-a375-5a08fa8ecfc2,profession.salon,available,14.99,,high,low,10,name.com,,,
 5b9d9dd6-e211-4072-92cc-db5643540ed5,defend.salon,available,14.99,,high,low,6,name.com,,,
 e4363480-b81d-4566-9319-a4ce134ea942,accountancy.salon,available,14.99,,medium,low,11,name.com,,,
-2a205520-1ee5-4807-b143-4236378de553,aesthetic.salon,available,14.99,83.99,high,low,9,name.com,,,
-6158e0dc-9909-44ae-afbf-07f3384e7648,abovetheline.salon,available,14.99,,medium,low,14,name.com,,,
-b2882953-8e94-4a62-af76-4f08bdd6ec3d,plain.salon,available,14.99,,medium,low,5,name.com,,,
+2a205520-1ee5-4807-b143-4236378de553,aesthetic.salon,available,55.98,69.98,medium,low,9,namecheap,,,21/09/2026 21:10
+6158e0dc-9909-44ae-afbf-07f3384e7648,abovetheline.salon,available,14.99,,low,low,14,name.com,,,
+b2882953-8e94-4a62-af76-4f08bdd6ec3d,plain.salon,available,57.99,57.99,low,low,5,namesilo,,,22/09/2026 07:19
 222e3827-ee06-4925-b31d-1668a0f4a5a6,hattrick.salon,available,14.99,,high,low,9,name.com,,,
 be4eedd2-64c4-4210-a34f-f09cc4c0c48d,wheezing.salon,available,19.99,83.99,low,low,8,name.com,,,07/08/2026 09:25
 c166f282-b205-41f5-9162-f12d38736b98,filled.salon,available,14.99,,high,low,6,name.com,,,
@@ -330,13 +330,13 @@ c2a5b00b-c25e-4037-bb93-75755bcdf5c8,lions.salon,available,14.99,,high,low,5,nam
 55cc637a-cad0-43f9-b5db-2b82eeb7f946,wellbehaved.salon,available,14.99,,low,low,12,name.com,,,
 ea018ea7-9b49-4f1e-a2a3-3652571840bf,makeover.salon,available,14.99,,high,low,9,name.com,,,
 937af2d1-bf8e-4c1f-95aa-ec5d5f46cb60,inlaw.salon,available,14.99,,high,low,6,name.com,,,
-e1586a55-2e03-45e8-9083-0e2170c7ebbf,ordered.salon,available,14.99,,high,low,7,name.com,,,
+e1586a55-2e03-45e8-9083-0e2170c7ebbf,ordered.salon,available,57.99,57.99,low,low,7,namesilo,,,22/09/2026 08:32
 2858d322-0f45-4d6e-930a-55d309a56e5a,enduring.salon,available,19.99,83.99,low,low,8,name.com,,,
 949f9f5e-b4e6-4b87-a7ad-b90b217d303c,rewarding.salon,available,14.99,,high,low,9,name.com,,,
 e2692d49-26e0-46fd-ab8f-70b8e51d3df3,seafood.salon,available,55.98,69.98,medium,low,7,namecheap,,,08/09/2026 02:47
 abbce89b-a653-4b32-adf3-6b7fe1282ba9,episode.salon,available,14.99,,high,low,7,name.com,,,
 3bc73a64-6a46-4a4d-b1b1-9c4e71e54deb,iwouldratherdie.salon,available,14.99,,medium,low,18,name.com,,,
-fa76770e-468f-417a-a516-588c90300056,foreman.salon,available,14.99,,medium,low,7,name.com,,,
+fa76770e-468f-417a-a516-588c90300056,foreman.salon,available,57.99,57.99,low,low,7,namesilo,,,23/09/2026 00:59
 8f538941-1066-4b32-b0ea-dcba72f717bc,monetary.salon,available,14.99,,medium,low,8,name.com,,,
 4618bbd0-2b74-47ba-9829-b37977c57dd3,beaklike.salon,available,19.99,83.99,low,low,8,name.com,,,09/08/2026 03:59
 c23a9907-ec43-4c7d-a58d-caa2a05c6573,roiled.salon,available,19.99,83.99,low,low,6,name.com,,,
@@ -344,7 +344,7 @@ e7d5f9ef-f72d-493c-8f89-862aeffea270,birth.salon,available,14.99,,high,low,5,nam
 c6533276-7ade-411e-9e37-3c76ab230093,wakingup.salon,available,14.99,,high,low,9,name.com,,,
 8e19bad2-5033-411f-b3b8-fe72cac3c213,annually.salon,available,14.99,,medium,low,8,name.com,,,
 76c8b8a0-56cb-4649-8ee6-64c047f0e45f,nest.salon,available,14.99,,high,medium,4,name.com,,,
-354c01f4-ecfc-48ac-8699-ad27161d54de,asteroid.salon,available,14.99,,medium,low,8,name.com,,,
+354c01f4-ecfc-48ac-8699-ad27161d54de,asteroid.salon,available,55.98,69.98,low,low,8,namecheap,,,22/09/2026 10:17
 600c27e5-9bed-48b7-a3f9-90753d0536d6,tour.salon,available,14.99,,high,low,4,name.com,,,
 39d314bf-5285-4c1b-8e78-fef6d0fade7f,fiction.salon,available,14.99,,high,low,7,name.com,,,
 dede3156-994e-4ba9-b9c7-bc7e53527e20,coffin.salon,available,14.99,,medium,low,6,name.com,,,
@@ -353,10 +353,10 @@ dede3156-994e-4ba9-b9c7-bc7e53527e20,coffin.salon,available,14.99,,medium,low,6,
 7e424f8a-7690-4e0a-bad3-443317f13a73,sift.salon,available,14.99,,medium,low,4,name.com,,,
 d14b0629-1fa6-4013-ade5-9719edfd9434,apriori.salon,available,19.99,83.99,low,low,8,name.com,,,
 24174e60-7a3c-4e49-9b0a-ff8498a443a4,basilary.salon,available,19.99,83.99,low,low,8,name.com,,,08/08/2026 22:22
-c29beee0-984c-41a2-8113-e9182de37d02,virtuoso.salon,available,14.99,83.99,high,low,8,name.com,,,
+c29beee0-984c-41a2-8113-e9182de37d02,virtuoso.salon,available,55.98,69.98,medium,low,8,namecheap,,,21/09/2026 17:38
 664ca6b9-a401-4035-9214-9c855b321513,drop.salon,available,14.99,83.99,high,low,4,name.com,,,
 d7d0011c-56a9-4343-8e0e-0f48cf4c6f18,alar.salon,available,19.99,83.99,low,low,4,name.com,,,
-583d536b-3560-435e-8bc6-d93bb2055f34,genius.salon,available,14.99,83.99,high,medium,6,name.com,,,
+583d536b-3560-435e-8bc6-d93bb2055f34,genius.salon,available,57.99,57.99,medium,low,6,namesilo,,,21/09/2026 17:41
 9c497087-3572-42ad-b294-0668026527ae,seedy.salon,available,19.99,83.99,low,low,5,name.com,,,
 28790c2d-4568-46dc-ac47-1754b0abc40f,profitable.salon,available,14.99,,high,low,10,name.com,,,
 66667dcc-be78-4d98-9a1c-34cd662f6b2b,came.salon,available,14.99,,high,low,4,name.com,,,
@@ -432,7 +432,7 @@ ded35973-c5ea-40a1-bc4e-6b38cf5394c1,stand.salon,available,14.99,,high,low,5,nam
 0365c080-064a-464c-87e6-c3d4e4fa35fd,moderately.salon,available,14.99,,medium,low,10,name.com,,,
 dc4dddc9-8140-4a3d-8af4-ef931a6adc75,rider.salon,available,14.99,,high,low,5,name.com,,,
 8dadefa3-823f-49f1-9cdb-957053261d47,doughnut.salon,available,14.99,,medium,low,8,name.com,,,
-7cb67833-4caa-4546-aefe-00a7488191dd,aged.salon,available,14.99,83.99,high,low,4,name.com,,,
+7cb67833-4caa-4546-aefe-00a7488191dd,aged.salon,available,57.99,57.99,medium,low,4,namesilo,,,21/09/2026 22:26
 862edb1c-f70c-42cd-8a8d-ddd35775e50d,desired.salon,available,14.99,83.99,high,low,7,name.com,,,
 4d916c5f-826e-472d-b598-be54871d1920,indespiteof.salon,available,14.99,,medium,low,13,name.com,,,
 9aec057e-60ca-4075-8e0e-49d9014c231b,starter.salon,available,14.99,,high,low,7,name.com,,,
@@ -446,18 +446,18 @@ d0577107-063b-44da-a466-23a6c24fbb5f,overdue.salon,available,14.99,,medium,low,7
 b32bbe6d-01e8-40c7-824c-926e0096bc26,nobody.salon,available,14.99,,medium,low,6,name.com,,,
 325dc681-6e21-4c2f-b972-a520876214a2,oddmanwins.salon,available,14.99,,low,low,12,name.com,,,
 5ac15d8f-87fb-4f2b-9732-5bb7c6e7e5ea,failedstate.salon,available,14.99,,medium,low,12,name.com,,,
-c7fad6dd-e358-4729-904f-098ac58722bc,option.salon,available,14.99,83.99,high,low,6,name.com,,,
+c7fad6dd-e358-4729-904f-098ac58722bc,option.salon,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 02:42
 15eaeb7b-c034-4961-84f6-298eb0f8cd51,aplanatic.salon,available,19.99,83.99,low,low,9,name.com,,,06/08/2026 00:29
 bba6d0d2-322f-440e-9e31-190da3c6d5ad,assemblyline.salon,available,14.99,,high,low,13,name.com,,,
 5bb43deb-64d5-49f7-aa17-c83bcad1d083,howmany.salon,available,14.99,,medium,low,8,name.com,,,
 4a617412-5b12-4f90-ae3f-3af3bbed9b70,gotowork.salon,available,14.99,,medium,low,10,name.com,,,
 0826f337-7d9a-493f-9a70-619a87974309,blackmailing.salon,available,14.99,,medium,low,12,name.com,,,
 2f6a042f-0fc8-4859-933f-1e17c2cc329d,gulf.salon,available,14.99,,medium,low,4,name.com,,,
-75455986-09af-4e35-a9cf-ba1530e6ad9c,model.salon,available,55.98,69.98,medium,low,5,namecheap,,,08/09/2026 03:01
+75455986-09af-4e35-a9cf-ba1530e6ad9c,model.salon,available,57.99,57.99,medium,low,5,namesilo,,,23/09/2026 05:20
 c4beb5f2-5d70-46f3-b548-4fb2b12351e3,prime.salon,available,,,high,high,5,,,,
 013cf753-5d62-4eee-9712-9b6b8c250f25,english.salon,resell,,,high,low,7,"Sav.com, LLC - 24",05/05/2025 15:15,05/05/2027 15:15,
 d74c534d-3570-43ad-b8e5-95293e873709,said.salon,available,14.99,,high,low,4,name.com,,,
-c3c01340-621d-4fa9-b97a-8cbc53bb9a5b,beatup.salon,available,14.99,,medium,low,7,name.com,,,
+c3c01340-621d-4fa9-b97a-8cbc53bb9a5b,beatup.salon,available,19.99,83.99,low,low,7,name.com,,,22/09/2026 18:16
 c1ab0a12-f841-4f1b-9b23-e15c6149ebc4,through.salon,available,14.99,83.99,high,low,7,name.com,,,
 73ed6f0d-dac4-4eda-8db8-db793b7e4920,half.salon,available,14.99,,high,low,4,name.com,,,
 c4a97bf1-a07b-42ad-9398-60015f1349fa,sevenup.salon,available,14.99,,high,low,8,name.com,,,
@@ -498,10 +498,10 @@ d2d310d2-af08-4835-94c8-51e76769e0a6,aerophilic.salon,available,19.99,83.99,low,
 ce4bce8a-b4b1-41d1-a496-72a0c472d394,childsexabuse.salon,available,14.99,,medium,low,15,name.com,,,
 4a868d11-068a-4539-89b7-0fa934d29b8d,lapse.salon,available,14.99,,high,low,5,name.com,,,
 d96013be-8871-4a34-9bbd-fea9b37c9b1f,aboulic.salon,available,19.99,83.99,low,low,7,name.com,,,
-e34e1a87-72ca-406a-8964-f0a234ff1c8f,hundred.salon,available,14.99,83.99,high,low,7,name.com,,,
+e34e1a87-72ca-406a-8964-f0a234ff1c8f,hundred.salon,available,57.99,57.99,medium,low,7,namesilo,,,21/09/2026 11:00
 6cab55a9-6f03-4042-83df-4cf30600676f,nearest.salon,available,14.99,,medium,low,7,name.com,,,
 87fc6e48-d632-48e7-b51d-bb199678b982,supermarket.salon,available,14.99,,high,low,11,name.com,,,
-bef76092-8534-4c44-9b13-c525ff468faf,dauntless.salon,available,14.99,,medium,low,9,name.com,,,
+bef76092-8534-4c44-9b13-c525ff468faf,dauntless.salon,available,57.99,57.99,low,low,9,namesilo,,,22/09/2026 12:12
 10e1994a-13b7-48a5-b060-c043a1be6e3d,bowleg.salon,available,19.99,83.99,low,low,6,name.com,,,08/08/2026 11:50
 2820c2b2-7b8d-4d2b-a507-f9e288c21e26,contrast.salon,available,14.99,,high,low,8,name.com,,,
 f94596fa-98ae-4e69-bea9-ceb36227b6e1,weight.salon,available,55.98,69.98,low,low,6,namecheap,,,19/09/2026 19:07
@@ -511,17 +511,17 @@ dd0870bb-1af4-4bc6-accb-faf68986e5ae,unhandy.salon,available,14.99,,low,low,7,na
 edb2c3dd-b49a-4fe7-8f39-7662cbf72ace,brushing.salon,available,14.99,,high,low,8,name.com,,,
 c1b60ecb-609a-41c5-80d4-5ab4f98ab03d,stockupon.salon,available,14.99,,low,low,11,name.com,,,
 89ec14c7-5f21-47b1-837b-239fbd540cf7,cleverly.salon,available,14.99,,medium,low,8,name.com,,,
-a0a2da77-92bf-4826-b453-e40040058d33,overnight.salon,available,14.99,83.99,high,low,9,name.com,,,
+a0a2da77-92bf-4826-b453-e40040058d33,overnight.salon,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 00:44
 db6a9980-5b5c-4096-b5cd-141e7ba92db6,breakoutroom.salon,available,14.99,,medium,low,13,name.com,,,
 d1ba197a-6961-4f3a-99e5-defbaf03603c,climbable.salon,available,19.99,83.99,low,low,9,name.com,,,07/08/2026 00:10
 c30b0830-b2dd-467e-a1ab-1ece763e5dcb,justification.salon,available,14.99,,medium,low,13,name.com,,,
 93f1f610-8d0a-4dd3-a11e-79df65f0c624,reunion.salon,available,14.99,,high,medium,7,name.com,,,
 5fe3986b-d260-4dbe-ae79-04fdabea0de8,netherlands.salon,available,,,medium,low,11,,,,
-07a4fa42-7f04-424d-a2f4-5e6dde480288,australian.salon,available,14.99,,high,low,10,name.com,,,
+07a4fa42-7f04-424d-a2f4-5e6dde480288,australian.salon,available,57.99,57.99,low,low,10,namesilo,,,22/09/2026 13:30
 ef96fa4a-475d-4a45-9faa-83a5b5eeecab,adulterous.salon,available,19.99,83.99,low,low,10,name.com,,,
 4198b4dd-5459-4ee1-8886-63d2347aa5c6,supporting.salon,available,14.99,,high,low,10,name.com,,,
 8d88f5a0-563d-4c64-b38a-ff340349b6b7,rich.salon,available,55.98,69.98,low,low,4,namecheap,,,19/09/2026 18:40
-3cf94dba-8e98-42f6-833f-6d17556d9c43,announced.salon,available,14.99,,medium,low,9,name.com,,,
+3cf94dba-8e98-42f6-833f-6d17556d9c43,announced.salon,available,55.98,69.98,low,low,9,namecheap,,,22/09/2026 05:10
 c0f48225-9c5b-4094-b61c-1a46fc7790e4,north.salon,available,14.99,,high,low,5,name.com,,,
 63cfa965-3593-4235-878c-8290d0b67d50,behindhand.salon,available,19.99,83.99,low,low,10,name.com,,,09/08/2026 12:12
 af971fa9-1d50-41e6-9fc8-41f0b166051f,blueraspberry.salon,available,14.99,,high,low,14,name.com,,,
@@ -532,7 +532,7 @@ babd0c6d-f89d-4445-b957-7d266085fc9d,banded.salon,available,19.99,83.99,low,low,
 514e7a3e-0974-4fc1-a087-64c86593b19d,claim.salon,available,14.99,,high,low,5,name.com,,,
 d44a2a6f-b10a-47e8-a17d-4970a6581560,aug.salon,available,19.99,83.99,low,low,3,name.com,,,07/08/2026 17:10
 168039db-9f7c-463d-b861-d4fd86739337,family.salon,premium,118.8,118.8,high,medium,6,namesilo,,,
-d4d43e9a-dd95-4d4f-9abf-fb1e3ffa081f,altruistic.salon,available,14.99,83.99,high,low,10,name.com,,,
+d4d43e9a-dd95-4d4f-9abf-fb1e3ffa081f,altruistic.salon,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 02:48
 947f3ee9-ee59-40bb-b3fd-ea7eb498b640,ala.salon,available,14.99,,high,low,3,name.com,,,
 dd079d17-1035-40f0-b73c-6799c14ea707,run.salon,available,57.99,57.99,medium,low,3,namesilo,,,19/09/2026 07:07
 fff2884f-dd56-486f-8f2e-1d0f3f58c3fd,taal.salon,available,19.99,83.99,low,low,4,name.com,,,
@@ -545,10 +545,10 @@ b6a171c6-00e9-47ed-bb20-530efe6b4d56,crab.salon,available,14.99,,high,low,4,name
 8e5277aa-0e62-4272-8ae1-5cd0b3bc1f8a,chocolatecake.salon,available,14.99,,medium,low,14,name.com,,,
 bedc9cd2-9d9c-4585-bff0-b95770c5c08d,seventyfour.salon,available,14.99,,high,low,12,name.com,,,
 51f65b0d-c4af-404e-aa0f-7a069e969e26,creation.salon,available,14.99,,high,low,8,name.com,,,
-ca8458a5-ae5f-4f76-a254-5d8d6a20bd00,broadcast.salon,available,57.99,57.99,medium,low,9,namesilo,,,19/09/2026 05:03
+ca8458a5-ae5f-4f76-a254-5d8d6a20bd00,broadcast.salon,available,55.98,69.98,medium,low,9,namecheap,,,23/09/2026 04:24
 fd458a49-40ab-4887-89c8-7273ce40f475,volatile.salon,available,14.99,,high,low,8,name.com,,,
 e1b7a22d-593d-42ed-9506-1f061fe9d24d,aufait.salon,available,19.99,83.99,low,low,7,name.com,,,
-9b4bd524-a482-4b67-8ce1-e9d3e0602a4b,abouttime.salon,available,14.99,,medium,low,10,name.com,,,
+9b4bd524-a482-4b67-8ce1-e9d3e0602a4b,abouttime.salon,available,14.99,,low,low,10,name.com,,,
 a8d736e8-7b89-4f89-961c-b2047bdf5285,ambulacral.salon,available,19.99,83.99,low,low,10,name.com,,,
 5f6aa598-16c0-435d-ace3-b59fe87d1648,furtive.salon,available,19.99,83.99,low,low,7,name.com,,,08/08/2026 06:32
 4f0ad3ca-8437-4d1e-84f6-373225990955,bro.salon,available,14.99,,medium,low,3,name.com,,,
@@ -564,7 +564,7 @@ e882bba5-3abc-4867-ab8d-c98bbb4340b9,missinginaction.salon,available,14.99,,medi
 fc05f51a-4297-421f-97a6-7a2c08459752,fuckinghell.salon,available,14.99,,medium,low,12,name.com,,,
 0510dd29-2c54-41c7-87a7-6af6d30e31f7,aground.salon,available,19.99,83.99,low,low,7,name.com,,,
 200b6dcc-7f6d-40a3-8ac3-b773f92a19bd,sinkin.salon,available,14.99,,medium,low,7,name.com,,,
-e5e97f83-5b71-4d40-910e-cb6ba4ae1294,asleep.salon,available,14.99,,high,low,6,name.com,,,
+e5e97f83-5b71-4d40-910e-cb6ba4ae1294,asleep.salon,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 09:45
 4a062a87-d73f-4cc2-9e4f-505a443aa212,anticipated.salon,available,19.99,83.99,low,low,11,name.com,,,08/09/2026 14:34
 580027a7-2e04-4fe2-bc35-44bfa423e4c4,clay.salon,available,14.99,,high,low,4,name.com,,,
 506e39dc-6a4a-40e8-9e18-8ce1a73a7bd5,column.salon,available,57.99,57.99,medium,low,6,namesilo,,,19/09/2026 04:50
@@ -583,7 +583,7 @@ b403c5b4-bd6e-4284-b39c-79c538c52ff6,stealaway.salon,available,14.99,,low,low,10
 f0450330-66ef-4fee-9bdb-0081b50e56cb,manykinded.salon,available,14.99,,medium,low,11,name.com,,,
 bdf5b6d5-8d37-4833-ab1e-5476716c7041,adios.salon,available,14.99,,high,low,5,name.com,,,
 e42e4dc1-b977-4247-9cf8-328f2649f00d,concertroom.salon,available,14.99,,medium,low,12,name.com,,,
-189a4639-29b3-4a8f-af37-99099124fdaf,fifteen.salon,available,14.99,83.99,high,low,7,name.com,,,
+189a4639-29b3-4a8f-af37-99099124fdaf,fifteen.salon,available,55.98,69.98,medium,low,7,namecheap,,,21/09/2026 11:44
 1b35b8e1-5ce7-4fd8-904b-845c7dbeac7d,whose.salon,available,14.99,,high,low,5,name.com,,,
 5c52fb98-695f-40e3-a99c-21fff5813f9c,invoice.salon,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 02:32
 48e17efe-a58e-49e8-b607-615fec928346,fiftyfive.salon,available,19.99,83.99,low,low,10,name.com,,,
@@ -591,17 +591,17 @@ a2327a8a-d426-4d3c-aa60-a18830c18b18,mumbojumbo.salon,available,14.99,,low,low,1
 8e6217b4-29c4-4c39-9454-745b558986d2,deadofnight.salon,available,14.99,,medium,low,13,name.com,,,
 3ffa8cad-cf5e-41a7-8651-bd6a20fd89dc,encounter.salon,available,14.99,,high,low,9,name.com,,,
 7995aefc-fa4c-46a2-a8f0-1df2ada28a31,anaplastic.salon,available,19.99,83.99,low,low,10,name.com,,,
-4c96dc72-795a-4cfb-a795-3787e48475d1,fond.salon,available,14.99,83.99,high,low,4,name.com,,,
+4c96dc72-795a-4cfb-a795-3787e48475d1,fond.salon,available,57.99,57.99,medium,low,4,namesilo,,,21/09/2026 21:45
 ed0a166f-b740-4248-b9c6-86cd3fafdecb,stood.salon,available,14.99,,low,low,5,name.com,,,
 d513c588-8373-4eaa-998e-d9cf92852b19,weed.salon,available,14.99,,medium,low,4,name.com,,,
 f39d2a2c-9846-4a03-bc55-21ff543b0030,purposes.salon,available,14.99,,low,low,8,name.com,,,
 ced615c7-d7c4-4ddb-bc84-3cc8529070a1,careful.salon,available,14.99,,high,low,7,name.com,,,
-0ac0e199-07cc-4d07-801b-543679133a25,aboveabit.salon,available,14.99,,medium,low,11,name.com,,,
-df2ca00e-500a-4f05-9b30-f3a2f8038193,premarital.salon,available,14.99,,high,low,10,name.com,,,
+0ac0e199-07cc-4d07-801b-543679133a25,aboveabit.salon,available,14.99,,low,low,11,name.com,,,
+df2ca00e-500a-4f05-9b30-f3a2f8038193,premarital.salon,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 06:09
 ad03876f-e502-4e84-aec4-08c66741b893,bilious.salon,available,19.99,83.99,low,low,7,name.com,,,07/08/2026 14:09
 19bafe6d-68ce-4e1b-8d19-40a553084a9c,sickly.salon,available,19.99,83.99,low,low,6,name.com,,,
 0b0eb55f-021f-49d4-a51f-e66df663a5d0,bychance.salon,available,14.99,,medium,low,9,name.com,,,
-97885e0d-38f4-43bb-a110-ffb5347c22e8,courageous.salon,available,14.99,,high,low,10,name.com,,,
+97885e0d-38f4-43bb-a110-ffb5347c22e8,courageous.salon,available,57.99,57.99,medium,low,10,namesilo,,,23/09/2026 02:25
 db3f1e84-3bf5-4057-b555-fea9eb73d399,les.salon,available,14.99,,medium,low,3,name.com,,,
 5ffaa3d2-ce81-4d55-9d93-f49098375435,ifnot.salon,available,14.99,,medium,low,6,name.com,,,
 983780b7-b993-471f-98c4-c9173b827833,birds.salon,available,14.99,,high,low,5,name.com,,,
@@ -609,7 +609,7 @@ c3682827-6fef-475e-917d-1d4fe9ec42d0,notify.salon,available,14.99,,high,low,6,na
 b12db83f-ca65-4b0a-95b0-0bcb0363a2f5,lowtech.salon,available,14.99,,medium,low,8,name.com,,,
 3aaaf984-9ff9-473e-b1aa-e509f1657d64,burger.salon,available,14.99,,high,low,6,name.com,,,
 3c35fdc3-1fd8-4aea-941e-b41670a1f840,lol.salon,available,14.99,,high,low,3,name.com,,,
-82d09c61-4aea-4760-a45d-408c4d8e9398,apt.salon,available,14.99,,high,low,3,name.com,,,
+82d09c61-4aea-4760-a45d-408c4d8e9398,apt.salon,available,57.99,57.99,low,low,3,namesilo,,,22/09/2026 07:23
 d4c70102-0366-47dc-b508-7212acb476a4,incentive.salon,available,14.99,,high,low,9,name.com,,,
 1aaca135-e84b-4a87-8313-c73379e3c36a,uniform.salon,available,57.99,57.99,medium,low,7,namesilo,,,19/09/2026 05:41
 2e118ebe-cfe6-48a9-8dda-a48e11c04a50,tierce.salon,available,19.99,83.99,low,low,6,name.com,,,
@@ -620,10 +620,10 @@ b6abe74d-d0aa-4e28-a857-952cc400afed,letterspatents.salon,available,14.99,,mediu
 836d0097-db11-4b5c-b691-d95cc1881f6b,inorderto.salon,available,14.99,,low,low,11,name.com,,,
 d4b3756d-5ebd-4a68-9f3e-59a57b666e23,anal.salon,available,19.99,83.99,low,low,4,name.com,,,
 0a04f0e3-5dc7-4c29-ba7a-0cad1ccb48a3,independent.salon,available,14.99,,high,low,11,name.com,,,
-6019e402-7b7b-4ee9-88e9-1d71ae85b144,leading.salon,available,14.99,83.99,high,low,7,name.com,,,
+6019e402-7b7b-4ee9-88e9-1d71ae85b144,leading.salon,available,57.99,57.99,medium,low,7,namesilo,,,21/09/2026 23:23
 bbfeea36-c6cb-4890-b55b-d2e6ec3bc838,holdopen.salon,available,14.99,,high,low,9,name.com,,,
 5a69cd7d-db90-44b4-99d2-8e6faed04481,giveway.salon,available,14.99,,medium,low,8,name.com,,,
-8ae2a0f1-7ae9-471c-a837-82831ae007e4,advanced.salon,available,14.99,83.99,high,low,8,name.com,,,
+8ae2a0f1-7ae9-471c-a837-82831ae007e4,advanced.salon,available,57.99,57.99,medium,low,8,namesilo,,,21/09/2026 20:46
 74e81aee-895c-4643-b105-bfc897f05eee,proven.salon,available,14.99,,high,low,6,name.com,,,
 926d6338-18ef-4916-8449-e67069d5e9f9,camping.salon,available,14.99,,high,low,7,name.com,,,
 f7e80e44-8e6c-42f7-a641-cec04273acf9,throw.salon,available,14.99,,high,low,5,name.com,,,
@@ -636,7 +636,7 @@ fd892e40-f72b-4c4a-9948-97ec10a2aaa7,trauma.salon,available,14.99,,medium,low,6,
 761ca5b6-e3f9-4ee8-adcd-84130474ef02,mothafuggah.salon,available,14.99,,medium,low,11,name.com,,,
 5ec97372-03fa-4cd6-ab60-542bae73210d,ascending.salon,available,19.99,83.99,low,low,9,name.com,,,07/08/2026 00:51
 2cc3bec4-5e4d-42eb-984f-d73c6818a505,own.salon,available,,,high,low,3,,,,
-3606e080-8c92-4228-879b-1779e716d477,attractive.salon,available,14.99,,high,low,10,name.com,,,
+3606e080-8c92-4228-879b-1779e716d477,attractive.salon,available,57.99,57.99,medium,low,10,namesilo,,,22/09/2026 11:44
 eecbebfd-6b6f-4645-834a-66317f532dcc,endurance.salon,available,14.99,,high,low,9,name.com,,,
 082b6fc8-e2cb-4f14-81f3-b536fc564ea7,travelling.salon,available,14.99,,high,low,10,name.com,,,
 657e219a-22eb-406c-9e04-23c12ff7d41e,february.salon,available,14.99,,medium,low,8,name.com,,,
@@ -644,7 +644,7 @@ b7df66a6-89af-48e7-b154-61fbe87f3b2a,lowered.salon,available,14.99,,medium,low,7
 44ebbeb7-4c80-4db6-8edb-0293648cf91f,amoristic.salon,available,19.99,83.99,low,low,9,name.com,,,
 f71346ee-d3de-45ae-8665-db46a699b886,bargain.salon,available,14.99,,high,low,7,name.com,,,
 b955af32-5bda-4bea-8335-04c6f00013a8,underwear.salon,available,14.99,,medium,low,9,name.com,,,
-2010d638-e019-4207-9ec1-ce320c903521,actionable.salon,available,14.99,83.99,high,low,10,name.com,,,
+2010d638-e019-4207-9ec1-ce320c903521,actionable.salon,available,57.99,57.99,medium,low,10,namesilo,,,21/09/2026 16:28
 b99439ab-0552-4669-b5ac-c1b36d41192f,shavingoil.salon,available,14.99,,medium,low,11,name.com,,,
 798806fd-11d8-42e9-a28e-61e899e04464,excusatory.salon,available,19.99,83.99,low,low,10,name.com,,,06/08/2026 02:16
 b65c99e1-914c-4012-b5df-cd0cbba51a47,fruitwine.salon,available,14.99,,high,low,10,name.com,,,
@@ -655,12 +655,12 @@ a91c5914-7d4d-436e-b792-12481182bf80,areolate.salon,available,19.99,83.99,low,lo
 ce3304ef-7fd3-4596-bff1-f7f5ed8aa8bd,clerk.salon,available,14.99,,medium,low,5,name.com,,,
 88cca258-816c-411b-8984-f18d8a03f9a5,thinkagain.salon,available,14.99,,low,low,11,name.com,,,
 67889213-5202-4009-9361-5b3175afff5b,warranty.salon,available,14.99,,high,low,8,name.com,,,
-a1dc1aef-b7f0-45c1-aa35-8269362f0278,clear.salon,available,14.99,83.99,high,medium,5,name.com,,,
-a1599500-5e15-4303-a794-dde087aa07bb,aggressive.salon,available,14.99,83.99,high,low,10,name.com,,,
+a1dc1aef-b7f0-45c1-aa35-8269362f0278,clear.salon,available,57.99,57.99,medium,low,5,namesilo,,,21/09/2026 14:46
+a1599500-5e15-4303-a794-dde087aa07bb,aggressive.salon,available,57.99,57.99,medium,low,10,namesilo,,,21/09/2026 22:59
 31a10921-f558-4f10-a2f0-bea75a3d87eb,kissmyass.salon,available,14.99,,medium,low,11,name.com,,,
 b1f1acad-552c-4828-914f-41ef2354e6a3,havingsaidthat.salon,available,14.99,,medium,low,16,name.com,,,
 eda53c7f-de29-421c-b13b-6f259d4229d7,apopemptic.salon,available,19.99,83.99,low,low,10,name.com,,,06/08/2026 02:22
-4223ce4b-0188-4495-8d35-4d9722f4e10d,love.salon,resell,,,high,medium,4,Porkbun LLC,01/12/2025 22:30,01/12/2026 22:30,
+4223ce4b-0188-4495-8d35-4d9722f4e10d,love.salon,resell,,,medium,low,4,Porkbun LLC,01/12/2025 22:30,01/12/2026 22:30,22/09/2026 19:29
 de51e389-453a-4895-bfa9-897297722e9a,aculeate.salon,available,19.99,83.99,low,low,8,name.com,,,
 539ff7eb-f59b-4c58-9055-a014e1882370,spanish.salon,available,14.99,,medium,low,7,name.com,,,
 7ef5d729-e4f1-4bef-b6c9-a663855601e1,chose.salon,available,14.99,,high,low,5,name.com,,,
@@ -668,13 +668,13 @@ de51e389-453a-4895-bfa9-897297722e9a,aculeate.salon,available,19.99,83.99,low,lo
 37a46910-1c8c-4966-9113-1745b88df0f9,leaveofabsence.salon,available,14.99,,high,low,16,name.com,,,
 a319067f-1049-4f73-b19d-74368ef40c53,mcdonald.salon,available,14.99,,high,low,8,name.com,,,
 5c1ed95f-b548-485a-89f2-298da2f6e563,indisposed.salon,available,19.99,83.99,low,low,10,name.com,,,
-d12d3d5a-2938-458b-8963-fe358079088d,astute.salon,available,14.99,,high,low,6,name.com,,,
+d12d3d5a-2938-458b-8963-fe358079088d,astute.salon,available,57.99,57.99,low,low,6,namesilo,,,22/09/2026 10:35
 a3f80f74-4b16-43cb-831e-13a01a59b7db,atmost.salon,available,14.99,,medium,low,7,name.com,,,
 111b50c3-1b96-45c4-9d6b-62ff5a0ee1c8,barbate.salon,available,19.99,83.99,low,low,7,name.com,,,08/08/2026 16:10
 6f7b41a0-5325-4bd5-909b-c40da550a6f0,anosmic.salon,available,19.99,83.99,low,low,7,name.com,,,
 c126914e-47bf-41cf-9953-f6a737a7b970,commodity.salon,available,14.99,,high,low,9,name.com,,,
 3bf1e226-f35a-4954-b229-b3e65b1b8d1a,insist.salon,available,14.99,,high,low,6,name.com,,,
-be2898fc-aa84-4729-b31c-00b166106363,totally.salon,available,14.99,83.99,high,low,7,name.com,,,
+be2898fc-aa84-4729-b31c-00b166106363,totally.salon,available,57.99,57.99,low,low,7,namesilo,,,22/09/2026 00:22
 6b5b18ec-2ee9-4318-acdc-03ab971eb0e7,asteriated.salon,available,19.99,83.99,low,low,10,name.com,,,07/08/2026 08:42
 e0257d40-36ae-4b5d-8e6e-b4c998914270,jazz.salon,available,14.99,,high,low,4,name.com,,,
 a958d15f-7d7b-4c17-b758-e0c7219fce89,otic.salon,available,19.99,83.99,low,low,4,name.com,,,07/08/2026 17:41
@@ -689,7 +689,7 @@ a49c782c-5c09-4c88-9c9c-0f449d591041,log.salon,available,14.99,,high,low,3,name.
 1771b4f7-e07c-48a9-a523-31ca500811ea,mainly.salon,available,14.99,,high,low,6,name.com,,,
 32624028-6535-4766-8496-88c150fee530,rip.salon,available,14.99,,medium,low,3,name.com,,,
 b2193f55-a600-401b-9ecc-55bb32e0a6c0,inhale.salon,available,14.99,,high,low,6,name.com,,,
-a88b818a-ad93-4099-92ee-3b8cbf9695ac,dressed.salon,available,14.99,,high,low,7,name.com,,,
+a88b818a-ad93-4099-92ee-3b8cbf9695ac,dressed.salon,available,57.99,57.99,medium,low,7,namesilo,,,22/09/2026 07:16
 e6e38cfb-9467-4411-bf65-9e17f9749727,concoct.salon,available,14.99,,high,low,7,name.com,,,
 37407993-8ebf-4b5f-8613-6988bbd02573,twatabout.salon,available,14.99,,low,low,10,name.com,,,
 885aa4d1-827a-4139-bce0-ca7e06807dab,treehugger.salon,available,14.99,,medium,low,11,name.com,,,
@@ -707,13 +707,13 @@ ca3baecb-9f07-4a0c-8d70-8b8e8a47c74d,quintuplet.salon,available,19.99,83.99,low,
 d00d260e-f4f0-45e6-a9b3-710f5f91b873,owe.salon,available,14.99,,high,low,3,name.com,,,
 52bdeaf6-55d8-4523-9b6e-2e4ca4cd8fc4,grin.salon,available,14.99,,high,low,4,name.com,,,
 c3c94049-5288-426f-8902-7bc27744be19,senescent.salon,available,19.99,83.99,low,low,9,name.com,,,
-6f554a83-5e3f-4ae0-8026-f284bf2c5b88,aujus.salon,available,14.99,,medium,low,6,name.com,,,
+6f554a83-5e3f-4ae0-8026-f284bf2c5b88,aujus.salon,available,57.99,57.99,low,low,6,namesilo,,,22/09/2026 11:49
 a8825ee2-b298-4934-85f8-c25b24fb48c2,vigor.salon,available,14.99,,high,low,5,name.com,,,
 a16efafb-84ba-40d0-9491-1d852a0562ad,saw.salon,available,14.99,,high,low,3,name.com,,,
-69b329d2-ca76-4f18-ab29-fdd0d93d0ccf,rise.salon,available,14.99,,medium,medium,4,name.com,,,
+69b329d2-ca76-4f18-ab29-fdd0d93d0ccf,rise.salon,available,57.99,57.99,low,low,4,namesilo,,,22/09/2026 09:12
 eb4ed914-fb40-402a-8af4-6ac11e4b11fe,government.salon,available,14.99,,high,low,10,name.com,,,
 79324041-6edd-478e-85d6-0e598abc2b99,hotpepper.salon,available,14.99,,high,low,10,name.com,,,
-4256c343-622b-4611-b45f-43d21d66ade7,first.salon,premium,123.75,123.75,high,medium,5,name.com,,,
+4256c343-622b-4611-b45f-43d21d66ade7,first.salon,premium,118.8,118.8,medium,low,5,namesilo,,,21/09/2026 12:11
 1de88926-852f-4e6b-9805-b97c05aac0c4,anecdotal.salon,available,19.99,83.99,low,low,9,name.com,,,
 c91d4ed8-a744-4187-8047-33e8052b11cc,enhance.salon,available,14.99,,high,low,7,name.com,,,
 a8f5c0ce-1003-4e89-97de-6d9ff9966115,lorditover.salon,available,14.99,,medium,low,12,name.com,,,
@@ -722,13 +722,12 @@ a8f5c0ce-1003-4e89-97de-6d9ff9966115,lorditover.salon,available,14.99,,medium,lo
 c8143e16-a1cc-4b99-a384-16564e59b782,braless.salon,available,19.99,83.99,low,low,7,name.com,,,08/08/2026 18:29
 169a5945-6b79-4aa6-bcbd-856a953553d7,garret.salon,available,19.99,83.99,low,low,6,name.com,,,07/08/2026 15:51
 e992a8e9-b3b7-4dea-a0a7-af01c2841b94,characters.salon,available,14.99,,medium,low,10,name.com,,,
-b612c2e3-2832-42c4-bee2-603a19cc4130,best.salon,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",03/02/2019 08:10,03/02/2027 08:10,
 404c37f5-4a61-4bca-83f1-4cf42a9f3b8c,andalusian.salon,available,19.99,83.99,low,low,10,name.com,,,
 332b4c67-fe0c-45b8-a0f7-aab77aa70b4a,they.salon,available,14.99,,high,low,4,name.com,,,
 62a6934d-8dfa-4594-8171-6339852ded65,directing.salon,available,14.99,83.99,medium,low,9,name.com,,,
 2211e30f-62e4-4b9c-b59f-e9843b2d6d30,tortoiseshell.salon,available,14.99,,medium,low,14,name.com,,,
 1b117e58-f1e5-407a-9778-337bdca00e92,rapmusic.salon,available,14.99,,medium,low,9,name.com,,,
-e254c6d9-7327-49dd-adba-3f9bb13d427d,augratin.salon,available,14.99,,high,low,9,name.com,,,
+e254c6d9-7327-49dd-adba-3f9bb13d427d,augratin.salon,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 11:47
 95acb5e3-9a4d-42ad-9c26-5987aa9b4795,cinque.salon,available,19.99,83.99,low,low,6,name.com,,,
 0e1a37ce-e67c-4425-b45e-cc28d6d384c2,stockholm.salon,available,14.99,,high,low,9,name.com,,,
 964bac99-0a74-4f3f-9fde-94a664e323e1,piss.salon,available,14.99,,high,low,4,name.com,,,
@@ -748,7 +747,7 @@ c26af52a-effd-45ec-b084-69bd1a798430,phonecall.salon,available,14.99,,high,low,1
 1d9f67d2-f412-45dc-995a-b10e2d0677a1,named.salon,available,14.99,,medium,low,5,name.com,,,
 7d692fba-cd12-4e28-a9b7-ea6724b2aefa,bullying.salon,available,14.99,,medium,low,8,name.com,,,
 164a0fa6-5cb8-445d-aa9b-8179c5732cf2,fungicide.salon,available,19.99,83.99,low,low,9,name.com,,,
-84763d44-15d4-48b1-8efe-40d3a0873a7f,auburn.salon,available,14.99,,medium,low,6,name.com,,,
+84763d44-15d4-48b1-8efe-40d3a0873a7f,auburn.salon,available,57.99,57.99,low,low,6,namesilo,,,22/09/2026 12:02
 07e7c52b-332f-4c82-bbb0-cdc6b293605d,sets.salon,available,14.99,,medium,low,4,name.com,,,
 490de1b2-2b97-4e87-981c-36e931f30926,apostolic.salon,available,19.99,83.99,low,low,9,name.com,,,06/08/2026 04:04
 4519abc8-d796-422a-9456-caa26cc8e631,aetiologic.salon,available,19.99,83.99,low,low,10,name.com,,,
@@ -756,7 +755,7 @@ c26af52a-effd-45ec-b084-69bd1a798430,phonecall.salon,available,14.99,,high,low,1
 78ce2a61-172a-4b4a-a9c1-be6df103aded,youngest.salon,available,14.99,,high,low,8,name.com,,,
 247f1380-3241-423a-a85c-bbe414eef3a0,toadfrog.salon,available,19.99,83.99,low,low,9,name.com,,,05/08/2026 21:11
 8a7e46a0-b090-48d6-a5cd-27838a454b50,aid.salon,available,14.99,,medium,low,3,name.com,,,
-96f86d75-7aee-4294-b1bc-8f527ea908f9,favored.salon,available,14.99,,high,low,7,name.com,,,
+96f86d75-7aee-4294-b1bc-8f527ea908f9,favored.salon,available,55.98,69.98,medium,low,7,namecheap,,,22/09/2026 20:01
 e0b19131-196e-4373-9ed0-c0f2466e199e,grandfather.salon,available,14.99,,high,low,11,name.com,,,
 11082444-4ae4-4749-bdab-86d58ebcd6e3,bloodplasma.salon,available,14.99,,high,low,12,name.com,,,
 6f6b85c6-0317-4c69-bbd4-0860a2b683b1,granddaughter.salon,available,14.99,,high,low,13,name.com,,,
@@ -783,7 +782,7 @@ b4528de5-ed1c-4578-8f53-7dccd25f59e8,sagittate.salon,available,19.99,83.99,low,l
 d6770a30-6dae-46e2-aa93-4a0b6ed4b2f6,toiletpaper.salon,available,14.99,,high,low,12,name.com,,,
 19911728-17ec-4634-9e6a-f2f58b98a79a,drseuss.salon,available,14.99,,high,low,9,name.com,,,
 7346c1f4-e3f1-43e4-8057-bdd806a4aa1c,mouthwash.salon,available,14.99,,medium,low,10,name.com,,,
-eb9eaab0-0e5c-4796-8c93-1780881174ef,stunned.salon,available,14.99,,medium,low,7,name.com,,,
+eb9eaab0-0e5c-4796-8c93-1780881174ef,stunned.salon,available,19.99,83.99,low,low,7,name.com,,,22/09/2026 03:44
 b2d02638-b55b-4ef6-b1f0-2a25b0891ec4,frozen.salon,available,14.99,,high,low,6,name.com,,,
 e82bec34-6bb7-4bbf-90e6-ba7a7bd80272,fallen.salon,available,14.99,,high,low,6,name.com,,,
 dd608043-28cb-4416-ae75-f735fb4bb641,acinose.salon,available,19.99,83.99,low,low,7,name.com,,,
@@ -791,24 +790,24 @@ dd608043-28cb-4416-ae75-f735fb4bb641,acinose.salon,available,19.99,83.99,low,low
 293faf7f-b0b9-453b-934b-5c28e860a72f,taxassessment.salon,available,14.99,,medium,low,14,name.com,,,
 da909d89-76ee-44d7-8548-411fb5b8bd4a,outdated.salon,available,14.99,,medium,low,8,name.com,,,
 99dc934f-c175-40cf-9900-144c4bd76cbc,aslongas.salon,available,14.99,,medium,low,10,name.com,,,
-4ce6910d-31c7-403c-a794-def3a1a72b35,gas.salon,available,14.99,,high,low,3,name.com,,,
+4ce6910d-31c7-403c-a794-def3a1a72b35,gas.salon,available,57.99,57.99,medium,low,3,namesilo,,,23/09/2026 01:57
 7253cdf4-57b0-4a7f-8626-1df110033677,eyry.salon,available,19.99,83.99,low,low,4,name.com,,,
 8878882c-b3b8-414b-a493-5ad2cfcc2bcf,beaming.salon,available,19.99,83.99,medium,low,7,name.com,,,09/08/2026 04:03
 eb9aeefb-e690-4c5f-8839-6ac18c499cf9,majestic.salon,available,14.99,,high,low,8,name.com,,,
 7e6213c7-014e-4f28-8182-8bfbd0ab0b00,islands.salon,available,14.99,,high,low,7,name.com,,,
-5a9e4f4d-d403-4b2e-aae8-d1b32e4b0e4a,above.salon,available,14.99,83.99,high,low,5,name.com,,,
+5a9e4f4d-d403-4b2e-aae8-d1b32e4b0e4a,above.salon,available,57.99,57.99,medium,low,5,namesilo,,,21/09/2026 14:29
 505c9e4f-7539-4f69-990e-4c45bbd35b3d,recoveredmemory.salon,available,14.99,,high,low,16,name.com,,,
 0d9f21ac-e923-4604-b1cf-d6c06ed624fa,spot.salon,available,14.99,,high,medium,4,name.com,,,
 4bb6acf4-49bb-4a96-bde9-a4621dbfbddf,flowerbox.salon,available,14.99,,high,low,10,name.com,,,
 dac2d59a-6edf-4b0c-966d-9c67c951617c,took.salon,available,14.99,,low,low,4,name.com,,,
-3a42e15d-6805-4949-91c1-f4697e86c51d,automatic.salon,available,14.99,,high,low,9,name.com,,,
+3a42e15d-6805-4949-91c1-f4697e86c51d,automatic.salon,available,57.99,57.99,medium,low,9,namesilo,,,22/09/2026 14:02
 a087e37f-50c7-4723-aee9-42a3799cb817,prose.salon,available,14.99,,medium,low,5,name.com,,,
 372acf26-4b21-4caf-9a90-54d28fdaa975,feelfree.salon,available,14.99,,medium,low,9,name.com,,,
 bbcc659c-c3d1-4e83-8472-6fea1396fdad,disorganized.salon,available,14.99,,medium,low,12,name.com,,,
-2857def4-962a-4a1e-9f02-bfde14f31c64,stamp.salon,available,14.99,,medium,low,5,name.com,,,
+2857def4-962a-4a1e-9f02-bfde14f31c64,stamp.salon,available,55.98,69.98,low,low,5,namecheap,,,23/09/2026 01:04
 48bf39fb-6372-4d9f-a4fa-9bd7327f8d71,cool.salon,available,14.99,83.99,high,low,4,name.com,,,
 72d373b6-ea94-4181-ba06-eb790f3438fb,abulic.salon,available,19.99,83.99,low,low,6,name.com,,,
-8fa374ec-0710-4241-a94f-4b2e0d621105,bizarre.salon,available,14.99,,high,low,7,name.com,,,
+8fa374ec-0710-4241-a94f-4b2e0d621105,bizarre.salon,available,55.98,69.98,medium,low,7,namecheap,,,22/09/2026 21:11
 835190f3-de66-48fa-b0ec-4b585e356618,kitschy.salon,available,19.99,83.99,low,low,7,name.com,,,09/08/2026 00:53
 961debe2-cd13-480e-b20c-f126ac14eb50,microwave.salon,available,14.99,,high,low,9,name.com,,,
 7d2d33e7-1db2-443d-9c6a-2c20165bf5da,waken.salon,available,19.99,83.99,medium,low,5,name.com,,,08/08/2026 00:08
@@ -847,7 +846,7 @@ cb580b02-b32a-454b-9e7d-2b07669adb29,fighting.salon,available,14.99,,medium,low,
 9f68d0d3-0dd5-4f71-ba4d-461a6065082a,days.salon,available,14.99,,high,low,4,name.com,,,
 81106aee-7758-4a6b-9c07-3ca6d1240975,grown.salon,available,55.98,69.98,low,low,5,namecheap,,,08/09/2026 15:16
 0d8831f8-740c-4614-a66b-ccd927035289,report.salon,available,14.99,,high,low,6,name.com,,,
-fa69e931-2a34-4bbd-b854-ca0ff3ba8bc3,close.salon,available,14.99,83.99,high,low,5,name.com,,,
+fa69e931-2a34-4bbd-b854-ca0ff3ba8bc3,close.salon,available,57.99,57.99,low,low,5,namesilo,,,21/09/2026 23:48
 b6c04938-6c8b-45ea-b79e-84a5ae5dc374,filming.salon,available,14.99,,high,low,7,name.com,,,
 8e091451-b1af-4d0f-afe9-854fda7db51a,adjectival.salon,available,19.99,83.99,low,low,10,name.com,,,
 e6d5c286-d278-4b39-86ba-91c5276c9bc7,protect.salon,available,14.99,,high,low,7,name.com,,,
@@ -855,17 +854,17 @@ e6d5c286-d278-4b39-86ba-91c5276c9bc7,protect.salon,available,14.99,,high,low,7,n
 62999d70-a06d-4635-8944-2570926a0a5c,parkingticket.salon,available,14.99,,medium,low,14,name.com,,,
 92e98b03-9548-4059-934d-a8f067d2dbae,yourhead.salon,available,14.99,,low,low,9,name.com,,,
 2e10d140-7c59-4807-8840-793ea17ff045,unusual.salon,available,14.99,,high,low,7,name.com,,,
-c59f64e5-27ca-4791-bb63-588638e77368,branded.salon,available,14.99,,high,low,7,name.com,,,
+c59f64e5-27ca-4791-bb63-588638e77368,branded.salon,available,55.98,69.98,low,low,7,namecheap,,,23/09/2026 02:22
 ac039ac2-e76a-47f8-8f8d-38af9da48571,atlantic.salon,available,19.99,83.99,medium,low,8,name.com,,,07/08/2026 13:38
 e795b4b4-ff92-4ce9-9080-020a7b3e4dbf,fivestar.salon,available,14.99,,high,low,9,name.com,,,
-cbc654be-3172-48a2-befa-287f695e29ce,any.salon,available,14.99,,high,medium,3,name.com,,,
+cbc654be-3172-48a2-befa-287f695e29ce,any.salon,available,55.98,69.98,medium,low,3,namecheap,,,22/09/2026 07:02
 bfa00e30-7a7d-48d8-8039-53bc0b8af2a5,antiviral.salon,available,19.99,83.99,low,low,9,name.com,,,05/08/2026 20:06
 8c27fb7a-4d2f-4605-bb0b-9a1187bf370d,oncemore.salon,available,55.98,69.98,low,low,9,namecheap,,,13/09/2026 18:09
 e59c97ed-5e52-45ca-86e1-71ed98239cb3,occurring.salon,available,14.99,,high,low,9,name.com,,,
 68153dbe-c8b2-41f5-9838-2093d72e3173,item.salon,available,14.99,,high,low,4,name.com,,,
 af5992d3-4617-469e-a1c3-0cc4900efe8d,coverup.salon,available,14.99,,medium,low,8,name.com,,,
 61fe9bd7-f850-4daa-9f86-c364ba2f97ee,fourteenth.salon,available,19.99,83.99,low,low,10,name.com,,,
-c455a0f1-ac07-4b4a-a2fe-fc82fcdc8864,brief.salon,available,14.99,83.99,high,low,5,name.com,,,
+c455a0f1-ac07-4b4a-a2fe-fc82fcdc8864,brief.salon,available,55.98,69.98,medium,low,5,namecheap,,,21/09/2026 13:42
 8f79e5f9-7815-4079-b1a2-560144b8a873,speech.salon,available,14.99,,high,low,6,name.com,,,
 109aeeae-f095-47aa-9e3d-c896d2ef0f66,queen.salon,resell,,,high,low,5,"Sav.com, LLC",18/04/2026 07:36,18/04/2027 07:36,
 9a211c17-23d6-423d-993b-cb2d20fb9bef,solution.salon,available,14.99,,high,low,8,name.com,,,
@@ -927,7 +926,7 @@ d1fd3506-c0f6-490a-b466-a9fcd29ad87c,nationalanthem.salon,available,14.99,,high,
 e93613f5-dcc7-47a0-bfb3-8dc79aa66507,seasick.salon,available,19.99,83.99,low,low,7,name.com,,,
 de154ef0-9885-4e57-a2c9-40c540851b29,neckdeep.salon,available,55.98,69.98,low,low,9,namecheap,,,08/09/2026 15:02
 14e86325-9713-45d7-9d3e-acc5bdce6620,generalpublic.salon,available,14.99,,high,low,14,name.com,,,
-06a5c2b4-c884-4527-acab-8eb0948e1764,biological.salon,available,14.99,,high,low,10,name.com,,,
+06a5c2b4-c884-4527-acab-8eb0948e1764,biological.salon,available,19.99,83.99,medium,low,10,name.com,,,22/09/2026 20:55
 28e21616-3179-4916-8b60-25f47f211a3b,bce.salon,available,14.99,,medium,low,3,name.com,,,
 f3a0d964-c9be-40d0-be61-e2a0b0616fc2,subscribe.salon,available,14.99,,high,low,9,name.com,,,
 4b0f03b0-7653-43c6-863f-b30d30ed0327,voter.salon,available,14.99,,medium,low,5,name.com,,,
@@ -936,9 +935,9 @@ f3a0d964-c9be-40d0-be61-e2a0b0616fc2,subscribe.salon,available,14.99,,high,low,9
 dffad122-d72d-4f96-93cc-cb19244ad56a,aboveboard.salon,available,19.99,83.99,low,low,10,name.com,,,
 05885396-e179-4dcf-8252-207e63d56a6b,bedless.salon,available,19.99,83.99,low,low,7,name.com,,,09/08/2026 07:23
 21341425-444c-43c0-a8ec-61f202aaf631,perpetual.salon,available,19.99,83.99,medium,low,9,name.com,,,
-946b63c9-b5cc-472f-b73b-d9c166f09245,wacky.salon,available,14.99,,high,low,5,name.com,,,
+946b63c9-b5cc-472f-b73b-d9c166f09245,wacky.salon,available,55.98,69.98,low,low,5,namecheap,,,22/09/2026 08:23
 f131e81a-cdaf-414f-875b-2d666ac5f69d,disney.salon,available,,,high,low,6,,,,
-85069e78-d170-4cc8-bba1-c17308fb0cb3,amalgamate.salon,available,14.99,83.99,high,low,10,name.com,,,
+85069e78-d170-4cc8-bba1-c17308fb0cb3,amalgamate.salon,available,57.99,57.99,low,low,10,namesilo,,,22/09/2026 03:01
 2a87c59e-1f7f-4053-8c69-858d6547ab5b,balky.salon,available,19.99,83.99,low,low,5,name.com,,,08/08/2026 09:55
 aec20315-a3da-47d7-b123-3aac9bd0e25a,achenial.salon,available,19.99,83.99,low,low,8,name.com,,,
 b5eead14-22bc-4066-a858-a6399f94f766,steam.salon,available,14.99,,medium,medium,5,name.com,,,
@@ -949,19 +948,19 @@ a58e84d7-d5f6-4e8b-aaa3-caee17039bb4,gratitude.salon,available,14.99,,high,low,9
 c37f115c-b7d8-498b-845e-c11ea93892df,giveback.salon,available,14.99,,high,low,9,name.com,,,
 26793c1f-b7d1-4df2-9aec-1b3b7efdf88b,oxfam.salon,available,14.99,,high,low,5,name.com,,,
 47ba68c1-375a-493d-a544-03a2bb5f7a03,pat.salon,available,14.99,,high,low,3,name.com,,,
-c0f805f6-f653-473b-b5fc-34ccf607dfee,adaptable.salon,available,14.99,83.99,high,low,9,name.com,,,
+c0f805f6-f653-473b-b5fc-34ccf607dfee,adaptable.salon,available,57.99,57.99,medium,low,9,namesilo,,,21/09/2026 16:52
 fbad698d-2446-4e78-8094-be9d1c3a0202,monstrous.salon,available,19.99,83.99,low,low,9,name.com,,,07/08/2026 14:47
 87b8576e-d58f-44a6-8733-f4024844f677,greatgranddaughter.salon,available,14.99,,high,low,19,name.com,,,
 9c55de06-31bd-4495-9680-4a24c06a40f2,rearward.salon,available,19.99,83.99,low,low,8,name.com,,,08/08/2026 06:51
 125e34d9-b7b6-4a53-b719-33f97c0e7f4b,potentiality.salon,available,14.99,,low,low,12,name.com,,,
 95d5f425-d4ab-418d-9341-76bb956ac7d9,capitalise.salon,available,14.99,,high,low,10,name.com,,,
-0bfc7ced-f70c-4354-bfe4-c0e7ec35fc48,weather.salon,available,14.99,,high,medium,7,name.com,,,
+0bfc7ced-f70c-4354-bfe4-c0e7ec35fc48,weather.salon,available,57.99,57.99,medium,low,7,namesilo,,,23/09/2026 02:29
 07cde3df-82bb-48bd-a21d-e555c1f6f573,division.salon,available,14.99,,medium,low,8,name.com,,,
 3ec4368e-f249-4b8e-ae95-422005e2aeb3,wouldithurt.salon,available,14.99,,low,low,13,name.com,,,
 b4b0a1ed-2341-4c3c-b813-d92bf91b5183,developing.salon,available,14.99,83.99,high,low,10,name.com,,,
 ca13daba-1246-4799-8906-996c24d7aaed,midseptember.salon,available,14.99,,high,low,13,name.com,,,
 74f5be2b-dd85-4e29-a751-70bcabced903,underestimate.salon,available,14.99,,high,low,13,name.com,,,
-8d4bb483-f2a6-42ac-bc1e-ba9f47b789fc,break.salon,available,14.99,,high,low,5,name.com,,,
+8d4bb483-f2a6-42ac-bc1e-ba9f47b789fc,break.salon,available,57.99,57.99,low,low,5,namesilo,,,22/09/2026 17:01
 33129262-1cc7-48f5-bbb0-49542285278b,apetalous.salon,available,19.99,83.99,low,low,9,name.com,,,05/08/2026 22:35
 ffeace5c-38c2-43b0-a02b-dad1b442d590,jameswatt.salon,available,14.99,,high,low,10,name.com,,,
 62033c48-e29d-465f-9ddb-efd93f3de0f2,breathofheaven.salon,available,14.99,,high,low,16,name.com,,,
@@ -980,7 +979,7 @@ da4ec364-2af2-4493-8e94-b3b7dd4375f9,hawkeyed.salon,available,19.99,83.99,low,lo
 2ff45db2-065e-452e-894b-f9f4f9294e66,certificate.salon,available,14.99,,high,low,11,name.com,,,
 bdefe8f9-b9f5-4e26-9ac1-fae77217a6e7,stripling.salon,available,19.99,83.99,low,low,9,name.com,,,
 fda46980-1c2d-4c17-822e-46646dc7e93b,implied.salon,available,14.99,,high,low,7,name.com,,,
-84afd026-5fcc-4473-bfa7-7362c2541c65,adaptative.salon,available,14.99,83.99,high,low,10,name.com,,,
+84afd026-5fcc-4473-bfa7-7362c2541c65,adaptative.salon,available,57.99,57.99,medium,low,10,namesilo,,,21/09/2026 16:59
 420cb477-bf30-463d-8f36-574cc213485e,hellothere.salon,available,14.99,,high,low,11,name.com,,,
 287f7881-b103-43f5-8855-a4d03e50d096,pitfall.salon,available,14.99,,medium,low,7,name.com,,,
 bec55816-fc53-46c9-8658-10b13c26dd47,eolotropic.salon,available,19.99,83.99,low,low,10,name.com,,,
@@ -999,3 +998,4 @@ de0e57df-739b-4c8d-a9be-b1404c7e0b5a,boards.salon,available,14.99,,medium,low,6,
 4de18192-452f-45f2-9071-e363610dd99d,waterless.salon,available,19.99,83.99,low,low,9,name.com,,,06/08/2026 19:03
 e7d57042-0c3e-40ec-ab21-e98f405f43bb,manmade.salon,available,14.99,,medium,low,8,name.com,,,
 2fc99476-0918-4307-9d7e-8fb5efe76d10,expended.salon,available,14.99,,medium,low,8,name.com,,,
+b518d33d-d261-4bb1-a8a1-33bfe218f277,taxes.salon,available,14.99,,low,low,5,name.com,,,

@@ -1,10 +1,10 @@
-# Available .SALON One-Word Domains (31,621)
+# Available .SALON One-Word Domains (13,744)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C621%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C744%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .salon one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,621 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,744 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,621 domains · **Median ask:** $35.85 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 13,744 domains · **Median ask:** $28.00 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/salon`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| scrub.salon   | available | $14.99    | —             | high           | low    | 5      | name.com          |
-| half.salon    | available | $14.99    | —             | high           | low    | 4      | name.com          |
-| ago.salon     | available | $55.98    | $69.98        | low            | low    | 3      | namecheap         |
-| sun.salon     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| buy.salon     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| aid.salon     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| you.salon     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 38 |
-| lp.salon      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
-| air.salon     | available | $55.98    | $69.98        | medium         | low    | 3      | namecheap         |
-| love.salon    | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC       |
-| men.salon     | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
-| ala.salon     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| queen.salon   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC      |
-| pot.salon     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| any.salon     | available | $55.98    | $69.98        | medium         | low    | 3      | namecheap         |
-| english.salon | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 24 |
-| first.salon   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
-| apt.salon     | available | $57.99    | $57.99        | low            | low    | 3      | namesilo          |
-| family.salon  | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo          |
-| ask.salon     | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| aid.salon       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| and.salon       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| lp.salon        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| ala.salon       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| bio.salon       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| men.salon       | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| ask.salon       | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| sun.salon       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| pot.salon       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| aug.salon       | available | $19.99    | $83.99        | high           | low    | 3      | name.com          |
+| you.salon       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 38 |
+| corps.salon     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| axe.salon       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| queen.salon     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC      |
+| family.salon    | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo          |
+| bce.salon       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| perfect.salon   | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo          |
+| bro.salon       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| marijuana.salon | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo          |
+| bud.salon       | available | $14.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,621 live domains                        |
+| 1,000-row public sample | 13,744 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SALON One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SALON One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
